@@ -2,7 +2,7 @@ name: Factions Build
 on:
   push:
     branches:
-      - master
+      - 1.6.x
 jobs:
   build:
     runs-on: ubuntu-latest
